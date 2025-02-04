@@ -11,7 +11,7 @@ export default function Home() {
 
       <div className="flex justify-center mb-8">
         <Image
-          src="/images/PROFILE.jpeg"
+          src="/PROFILE.jpeg"
           width={200}
           height={150}
           className="border-4 border-white"
